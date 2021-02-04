@@ -46,6 +46,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
     - [markdownlint](#markdownlint)
     - [Markdown All in one](#markdown-all-in-one)
     - [Markdown Emoji](#markdown-emoji)
+  - [Nim](#nim)
   - [PHP](#php)
     - [IntelliSense](#intellisense)
     - [Laravel](#laravel)
@@ -451,6 +452,10 @@ Framework-specific:
 > Adds emoji syntax support to VS Code's built-in Markdown preview
 
 ![Markdown Emoji](https://raw.githubusercontent.com/mjbvz/vscode-markdown-emoji/master/docs/example.png)
+
+## Nim
+
+- [Nim](https://marketplace.visualstudio.com/items?itemName=nimsaem.nimvscode) - Rich language support for Nim.
 
 ## PHP
 
